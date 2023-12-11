@@ -14,7 +14,7 @@
     </h1>
 </div>
 <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnYyYWtrOGl5djBnaW93bXo5M21kdmJrbWRib3E2cDlxdGE0azVqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif"/>
+    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 </div>
 
 ### About Me :
